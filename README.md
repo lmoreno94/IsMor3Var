@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-A Full Stack JavaScript Developer 🚀 from Colombia. I consider myself as a skilled JS Developer with good debugging skills.
+A Junior Developer 🚀 from Colombia.
 <br/>
 Stacks I have worked with : MERN , React+Typescript , Redux+Redux-Toolkit , Next+React.
 <br/>  
