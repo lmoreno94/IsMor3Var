@@ -34,7 +34,7 @@ Things I have recently experimented with : typescript, express, docker, and a lo
   
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning React-Native and Animation
+- 🌱 I’m currently learning Docker and Typescript
 - 🤔 I’m looking for help for my future MERN projects
 - 📫 How to reach me: lemnog23@gmail.com
 
