@@ -28,8 +28,6 @@ A Junior Developer 🚀 from Colombia.
 Stacks I have worked with : MERN , React+Typescript , Redux+Redux-Toolkit , Next+React.
 <br/>  
 Things I have recently experimented with : typescript, express, docker, and a lot of other ui-libs...
-<br/>
-Want to become a full-time Freelancer.
 </p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
@@ -38,8 +36,6 @@ Want to become a full-time Freelancer.
 
 - 🌱 I’m currently learning React-Native and Animation
 - 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: lemnog23@gmail.com
 
 ### 🛠️ Languages and Tools:
