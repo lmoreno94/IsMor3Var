@@ -2,20 +2,20 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/IsMor3Var/">
+  <img align="left" alt="Luis Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/Dev_43MrL">
+  <img align="left" alt="Luis Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/M917rL917">
+  <img align="left" alt="Luis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:lemnog23@gmail.com">
+  <img align="left" alt="Luis Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 
@@ -25,18 +25,17 @@
 <p>
 A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled JS Developer with good debugging skills.
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+Stacks I have worked with : MERN , React+Typescript , Redux+Redux-Toolkit , Next+React.
 <br/>  
-Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
+Things I have recently experimented with : typescript, express, docker, and a lot of other ui-libs...
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+Want to become a full-time Freelancer.
 </p>
 
-  <img align="right" alt="GIF" src="[https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I)" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
 - 🌱 I’m currently learning React-Native and Animation
 - 🤔 I’m looking for help for my future MERN projects
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
@@ -65,13 +64,13 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemnog23@gmail.com)](mailto:lemnog23@gmail.com)
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Luis_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
+or [![Gmail Badge](https://img.shields.io/badge/-lemnog23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemnog23@gmail.com)](mailto:lemnog23@gmail.com)
 
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/IsMor3Var/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M917rL917)](https://twitter.com/M917rL917)
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/IsMor3Var?label=Follow&style=social)](https://github.com/IsMor3Var/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@M917rL917-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M917rL917)](https://twitter.com/M917rL917)
 and be a part of my journey... and See if I can make it or not!
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Luis_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
 
 <hr/>
 
