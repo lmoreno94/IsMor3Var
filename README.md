@@ -58,8 +58,6 @@ Things I have recently experimented with : typescript, express, docker, and a lo
 
 ### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
-
 ❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Luis_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
 or [![Gmail Badge](https://img.shields.io/badge/-lemnog23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemnog23@gmail.com)](mailto:lemnog23@gmail.com)
 
