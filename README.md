@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/IsMor3Var/">
+<a href="https://www.linkedin.com/in/lmoreno94/">
   <img align="left" alt="Luis Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-A Junior Developer 🚀 from Colombia.
+Web developer | JS/TS | Docker | ReactJs 🚀 from Colombia.
 <br/>
 Stacks I have worked with : MERN , React+Typescript , Redux+Redux-Toolkit , Next+React.
 <br/>  
@@ -58,13 +58,13 @@ Things I have recently experimented with : typescript, express, docker, and a lo
 
 ### 👣 Next Steps
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Luis_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Luis_Moreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmoreno94/)](https://www.linkedin.com/in/lmoreno94/)
 or [![Gmail Badge](https://img.shields.io/badge/-lemnog23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemnog23@gmail.com)](mailto:lemnog23@gmail.com)
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/lmoreno94?label=Follow&style=social)](https://github.com/lmoreno94/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@M917rL917-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M917rL917)](https://twitter.com/M917rL917)
 and be a part of my journey... and See if I can make it or not!
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Luis_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsMor3Var/)](https://www.linkedin.com/in/IsMor3Var/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Luis_Moreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmoreno94/)](https://www.linkedin.com/in/lmoreno94/)
 
 <hr/>
 
